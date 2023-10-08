@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/CMakeFiles/bootloader
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/CMakeFiles/bootloader.rule
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/CMakeFiles/bootloader-complete.rule
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/GitHub/Wearer/wearable-hardware/firmware/Pod/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "wearable-wifi",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
