@@ -13,7 +13,7 @@
 //* Ownership:
 //* This program was developed by Sana Yasfp. All rights are reserved to Sana Yasfp.
 //*
-//* Author: YAVO Abouho Sana Franklin Prince
+//* Author: Sana Yasfp
 //* Date of Creation: October 19th, 2023 10:15 PM
 //*
 
